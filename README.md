@@ -16,6 +16,11 @@ This project implements the logic specified in the take-home assignment.
 - Input is always a single character from A to Z.
 - The accepted input is always an uppercase character.
 
+## Efficiency:
+
+- Time complexity is O(k+k) -> O(k) where k is the number of characters to process.
+- Space complexity is O(1)
+
 ## How to Run the Application
 
 ### Running with an Input argument
